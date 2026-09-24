@@ -1,0 +1,23 @@
+{
+  "repo": "clo-3d-universal",
+  "product": "CLO 3D Universal",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "system-tools",
+  "topics": [
+    "clo-3d",
+    "clo-windows",
+    "system-tools-desktop",
+    "how-to-install-clo",
+    "clo-3d-desktop-package",
+    "clo-workspace",
+    "clo-3d-pro-tools",
+    "clo-suite",
+    "zentool-clo",
+    "clo-3d-tool-9"
+  ],
+  "site": "zentool.art"
+}
